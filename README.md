@@ -137,12 +137,13 @@ I believe that technology only makes sense when it solves real problems—and th
   alt="GitHub Stats" 
   height="200" 
   style="margin-bottom: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=LaraLZ&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  src="https://github-readme-stats.vercel.app/api?username=MatheusCavalari![Uploading image.png…]()
+&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
 <img 
   alt="Top Languages" 
   height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraLZ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCavalari&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 </div>
 
