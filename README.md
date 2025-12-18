@@ -32,7 +32,7 @@ I believe that technology only makes sense when it solves real problems—and th
 
 ### 💡 Interesses & Hobbies
 
-- <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/b75ec595-1ad5-468f-b103-7948f91b659c" /> **Jogos**: Amo o Corinthians.
+- <img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/b75ec595-1ad5-468f-b103-7948f91b659c" /> **Jogos**: Amo o Corinthians.
 - 🧠 **Crescimento pessoal**: Sempre buscando evoluir 
 - 🏋️ **Academia**: Corpo são, mente sã.
 - ⛪ **Igreja**: Minha fé é parte importante da minha vida.
