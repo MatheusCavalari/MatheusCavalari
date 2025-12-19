@@ -36,7 +36,7 @@ I believe that technology only makes sense when it solves real problems—and th
 - 🧠 **Crescimento pessoal**: Sempre buscando evoluir 
 - 🏋️ **Academia**: Corpo são, mente sã.
 - ⛪ **Igreja**: Minha fé é parte importante da minha vida.
-- 🍽️ **Brunch e Gastronomia**: Amo sair para comer — especialmente brasileira, italiana, francesa e japonesa!
+- 🍽️ **Brunch e Gastronomia**: Amo sair para comer — especialmente brasileira, italiana e francesa !
 - ✨ **Outras coisas legais**: Sempre em busca de experiências significativas.
 
 ## 💻 Tecnologias e ferramentas | Technologies & Tools
@@ -46,6 +46,18 @@ I believe that technology only makes sense when it solves real problems—and th
   <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 ### 🤖 Linguagens e Tecnologias | Languages and Technologies
@@ -128,23 +140,22 @@ I believe that technology only makes sense when it solves real problems—and th
 />
 
 </div>
-<br> 
 
 
 ### 📊 Estatísticas | Statistics
+
 <div align="center">
-<img 
-  alt="GitHub Stats" 
-  height="200" 
-  style="margin-bottom: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=MatheusCavalari&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-<img 
-  alt="Top Languages" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCavalari&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+
+[![Top Langs Light](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusCavalari&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs Dark](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusCavalari&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Stats Light](https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusCavalari&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Stats Dark](https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusCavalari&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)  
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MatheusCavalari&theme=dracula)](https://github.com/MatheusCavalari)
+
 </div>
+
+---
+
 
 ## 🎯 Me siga nas redes sociais | Follow me in my social networks 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-cavalari-barbosa/)
