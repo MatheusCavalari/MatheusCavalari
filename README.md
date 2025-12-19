@@ -45,6 +45,7 @@ At **Itaú Unibanco**, I contributed to **strategic initiatives and digital prod
 - 🍽️ **Brunch e Gastronomia**: Amo sair para comer — especialmente brasileira, italiana e francesa !
 - ✨ **Outras coisas legais**: Sempre em busca de experiências significativas.
 
+---
 ## 💻 Tecnologias e ferramentas | Technologies & Tools
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
@@ -64,7 +65,7 @@ At **Itaú Unibanco**, I contributed to **strategic initiatives and digital prod
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
-
+---
 ### 🤖 Linguagens e Tecnologias | Languages and Technologies
 <div
 <img 
@@ -145,7 +146,7 @@ At **Itaú Unibanco**, I contributed to **strategic initiatives and digital prod
 />
 
 </div>
-
+---
 
 ### 📊 Estatísticas | Statistics
 
@@ -188,7 +189,7 @@ At **Itaú Unibanco**, I contributed to **strategic initiatives and digital prod
 />
 
 </div>
-
+---
 
 ## 🎯 Me siga nas redes sociais | Follow me in my social networks 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-cavalari-barbosa/)
