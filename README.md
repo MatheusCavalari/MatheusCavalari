@@ -34,18 +34,16 @@ At **Itaú Unibanco**, I contributed to **strategic initiatives and digital prod
 
 💡 I believe **technology only matters when it solves real problems and creates measurable impact** — this mindset drives my work every day.
 
----
+<br>
 
 ### 💡 Interesses & Hobbies
 
 - <img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/b75ec595-1ad5-468f-b103-7948f91b659c" /> **Jogos**: Amo o Corinthians.
 - 🧠 **Crescimento pessoal**: Sempre buscando evoluir 
 - 🏋️ **Academia**: Corpo são, mente sã.
-- ⛪ **Igreja**: Minha fé é parte importante da minha vida.
-- 🍽️ **Brunch e Gastronomia**: Amo sair para comer — especialmente brasileira, italiana e francesa !
+- 🍽️ **Brunch e Gastronomia**: Amo sair para comer!
 - ✨ **Outras coisas legais**: Sempre em busca de experiências significativas.
 
----
 ## 💻 Tecnologias e ferramentas | Technologies & Tools
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
@@ -65,7 +63,8 @@ At **Itaú Unibanco**, I contributed to **strategic initiatives and digital prod
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
----
+<br>
+
 ### 🤖 Linguagens e Tecnologias | Languages and Technologies
 <div
 <img 
