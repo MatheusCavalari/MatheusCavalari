@@ -33,11 +33,9 @@ At **Bradesco**, I worked as a **Senior Systems Analyst**, developing full-stack
 At **Itaú Unibanco**, I contributed to **strategic initiatives and digital products**, working with **C# .NET, Python, Kotlin, Node.js, React, and Angular**, and leveraging **AWS services (EC2, SQS, Lambda, SNS, S3)** to modernize systems and build **cloud-native solutions**.
 
 💡 I believe **technology only matters when it solves real problems and creates measurable impact** — this mindset drives my work every day.
-
 <br>
 
 ### 💡 Interesses & Hobbies
-
 - <img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/b75ec595-1ad5-468f-b103-7948f91b659c" /> **Jogos**: Amo o Corinthians.
 - 🧠 **Crescimento pessoal**: Sempre buscando evoluir 
 - 🏋️ **Academia**: Corpo são, mente sã.
@@ -134,8 +132,6 @@ At **Itaú Unibanco**, I contributed to **strategic initiatives and digital prod
   width="30px" 
   style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
-
-
 <img 
   align="left" 
   alt="GitHub" 
