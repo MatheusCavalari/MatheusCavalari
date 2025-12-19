@@ -2,33 +2,39 @@
 ## Hi Devs 👋
 # 👩🏻‍💻 Matheus Cavalari
 
-**`Developer | Desenvolvedor`**
+**`Senior Full Stack Developer | Backend-Focused`**
 
-## BR Portugues |
-Sou Matheus Cavalari, desenvolvedor Full Stack com 9 anos de experiência, movido por aprendizado contínuo e pela criação de soluções que realmente geram impacto.
+---
 
-Sou graduado em Ciência e Tecnologia e Ciência da Computação pela UFABC e atualmente curso Pós-graduação em Engenharia de Software pela USP.
+## 🇧🇷 Sobre mim
+Sou desenvolvedor **Full Stack com 9 anos de experiência**, com forte foco em **back-end**, atuando na construção de **sistemas escaláveis, seguros e orientados a negócio**.
 
-Atuo com forte foco em back-end (C#, Java, Kotlin, Node.js, Python) e também em front-end (Angular e React), sempre aplicando boas práticas, clean code e arquiteturas escaláveis.
+Sou graduado em **Ciência e Tecnologia** e **Ciência da Computação pela UFABC** e atualmente curso **Pós-graduação em Engenharia de Software pela USP**.
 
-No Bradesco, trabalhei como Analista de Sistemas Sênior no Tech Academy, plataforma corporativa de aprendizado, desenvolvendo soluções fullstack com Java + Spring Boot, Angular e serviços Azure, garantindo segurança, desempenho e escalabilidade.
+Tenho ampla experiência com **C#, Java, Kotlin, Node.js e Python**, além de **Angular e React** no front-end, sempre aplicando **clean code, boas práticas e arquitetura de software**.
 
-No Itaú Unibanco, atuei como desenvolvedor fullstack em iniciativas estratégicas, utilizando C# .NET, Python, Kotlin, Node.js, React e Angular, além de ampla experiência com AWS (EC2, SQS, Lambda, SNS, S3, entre outros) para modernização de sistemas e criação de novos produtos digitais.
+Atuei no **Bradesco** como **Analista de Sistemas Sênior**, desenvolvendo soluções full stack para a **Tech Academy**, plataforma corporativa de aprendizado, utilizando **Java, Spring Boot, Angular e Azure**, com foco em **desempenho, segurança e escalabilidade**.
 
-Acredito que tecnologia só faz sentido quando resolve problemas reais — e é essa visão que guia meu trabalho todos os dias.
+No **Itaú Unibanco**, participei de **iniciativas estratégicas e produtos digitais**, trabalhando com **C# .NET, Python, Kotlin, Node.js, React e Angular**, além de **AWS (EC2, SQS, Lambda, SNS, S3)** para **modernização de sistemas e soluções cloud-native**.
 
-## EN English |
-My name is Matheus Cavalari, I'm a Full Stack developer with 9 years of experience, driven by continuous learning and creating solutions that truly generate impact.
+💡 Acredito que **boa tecnologia resolve problemas reais e gera impacto mensurável** — esse é o princípio que guia minha carreira.
 
-I hold degrees in Science and Technology and Computer Science from UFABC and am currently pursuing a postgraduate degree in Software Engineering at USP.
+---
 
-I work with a strong focus on back-end (C#, Java, Kotlin, Node.js, Python) and also front-end (Angular and React), always applying best practices, clean code, and scalable architectures.
+## 🇺🇸 About me
+I’m a **Senior Full Stack Developer with 9 years of experience**, strongly focused on **back-end development**, building **scalable, secure, and business-driven solutions**.
 
-At Bradesco, I worked as a Senior Systems Analyst at Tech Academy, a corporate learning platform, developing full-stack solutions with Java + Spring Boot, Angular, and Azure services, ensuring security, performance, and scalability.
+I hold degrees in **Science and Technology** and **Computer Science from UFABC**, and I am currently pursuing a **Postgraduate degree in Software Engineering at USP**.
 
-At Itaú Unibanco, I worked as a full-stack developer on strategic initiatives, using C# .NET, Python, Kotlin, Node.js, React, and Angular, in addition to extensive experience with AWS (EC2, SQS, Lambda, SNS, S3, among others) for system modernization and the creation of new digital products.
+My core stack includes **C#, Java, Kotlin, Node.js, and Python**, with solid experience in **Angular and React**, always applying **clean code, best practices, and scalable architectures**.
 
-I believe that technology only makes sense when it solves real problems—and this vision guides my work every day.
+At **Bradesco**, I worked as a **Senior Systems Analyst**, developing full-stack solutions for **Tech Academy**, a corporate learning platform, using **Java, Spring Boot, Angular, and Azure**, ensuring **high performance, security, and scalability**.
+
+At **Itaú Unibanco**, I contributed to **strategic initiatives and digital products**, working with **C# .NET, Python, Kotlin, Node.js, React, and Angular**, and leveraging **AWS services (EC2, SQS, Lambda, SNS, S3)** to modernize systems and build **cloud-native solutions**.
+
+💡 I believe **technology only matters when it solves real problems and creates measurable impact** — this mindset drives my work every day.
+
+---
 
 ### 💡 Interesses & Hobbies
 
@@ -42,7 +48,6 @@ I believe that technology only makes sense when it solves real problems—and th
 ## 💻 Tecnologias e ferramentas | Technologies & Tools
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
@@ -142,15 +147,20 @@ I believe that technology only makes sense when it solves real problems—and th
 </div>
 
 
+
 ### 📊 Estatísticas | Statistics
 
 <div align="center">
 
-[![Top Langs Light](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusCavalari&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs Dark](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusCavalari&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Stats Light](https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusCavalari&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Stats Dark](https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusCavalari&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)  
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MatheusCavalari&theme=dracula)](https://github.com/MatheusCavalari)
+<img [![Top Langs Light](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusCavalari&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)/>
+
+<img [![Top Langs Dark](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusCavalari&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)/>
+
+<img [![GitHub Stats Light](https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusCavalari&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)/>
+
+<img [![GitHub Stats Dark](https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusCavalari&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)/>
+
+<img [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MatheusCavalari&theme=dracula)](https://github.com/MatheusCavalari)/>
 
 </div>
 
@@ -159,3 +169,5 @@ I believe that technology only makes sense when it solves real problems—and th
 
 ## 🎯 Me siga nas redes sociais | Follow me in my social networks 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-cavalari-barbosa/)
+<!--[![Credly](https://img.shields.io/badge/credly-303F9F.svg?&style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/matheuscavalari/badges)
+[![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@matheuscavalari)-->
