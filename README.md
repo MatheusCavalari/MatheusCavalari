@@ -164,8 +164,6 @@ At **Itaú Unibanco**, I contributed to **strategic initiatives and digital prod
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusCavalari&show_icons=true" />
 </picture>
 
-<br/><br/>
-
 <!-- GitHub Stats -->
 <picture>
   <source 
@@ -178,8 +176,6 @@ At **Itaú Unibanco**, I contributed to **strategic initiatives and digital prod
   />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusCavalari&show_icons=true" />
 </picture>
-
-<br/><br/>
 
 <!-- GitHub Streak -->
 <img 
