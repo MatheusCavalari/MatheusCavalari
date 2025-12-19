@@ -144,9 +144,8 @@ At **Itaú Unibanco**, I contributed to **strategic initiatives and digital prod
   style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
 />
-
 </div>
----
+<br>
 
 ### 📊 Estatísticas | Statistics
 
@@ -189,7 +188,7 @@ At **Itaú Unibanco**, I contributed to **strategic initiatives and digital prod
 />
 
 </div>
----
+<br>
 
 ## 🎯 Me siga nas redes sociais | Follow me in my social networks 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-cavalari-barbosa/)
