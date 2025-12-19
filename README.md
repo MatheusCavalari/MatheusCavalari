@@ -147,24 +147,47 @@ At **Itaú Unibanco**, I contributed to **strategic initiatives and digital prod
 </div>
 
 
-
 ### 📊 Estatísticas | Statistics
 
 <div align="center">
 
-<img [![Top Langs Light](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusCavalari&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)/>
+<!-- Top Languages -->
+<picture>
+  <source 
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusCavalari&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusCavalari&show_icons=true&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusCavalari&show_icons=true" />
+</picture>
 
-<img [![Top Langs Dark](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusCavalari&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)/>
+<br/><br/>
 
-<img [![GitHub Stats Light](https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusCavalari&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)/>
+<!-- GitHub Stats -->
+<picture>
+  <source 
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusCavalari&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusCavalari&show_icons=true&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusCavalari&show_icons=true" />
+</picture>
 
-<img [![GitHub Stats Dark](https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusCavalari&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)/>
+<br/><br/>
 
-<img [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MatheusCavalari&theme=dracula)](https://github.com/MatheusCavalari)/>
+<!-- GitHub Streak -->
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusCavalari&theme=dracula" 
+  alt="GitHub Streak Stats"
+/>
 
 </div>
-
----
 
 
 ## 🎯 Me siga nas redes sociais | Follow me in my social networks 
