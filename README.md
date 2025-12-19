@@ -152,7 +152,7 @@ At **Itaú Unibanco**, I contributed to **strategic initiatives and digital prod
 <div align="center">
 
 <!-- Top Languages -->
-<picture>
+
   <source 
     srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusCavalari&show_icons=true&theme=dracula"
     media="(prefers-color-scheme: dark)"
@@ -162,7 +162,7 @@ At **Itaú Unibanco**, I contributed to **strategic initiatives and digital prod
     media="(prefers-color-scheme: light)"
   />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusCavalari&show_icons=true" />
-</picture>
+
 
 <!-- GitHub Stats -->
 <picture>
@@ -182,11 +182,10 @@ At **Itaú Unibanco**, I contributed to **strategic initiatives and digital prod
   src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusCavalari&theme=dracula" 
   alt="GitHub Streak Stats"
 />
-
 </div>
 <br>
 
 ## 🎯 Me siga nas redes sociais | Follow me in my social networks 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-cavalari-barbosa/)
-<!--[![Credly](https://img.shields.io/badge/credly-303F9F.svg?&style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/matheuscavalari/badges)
-[![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@matheuscavalari)-->
+[![Credly](https://img.shields.io/badge/credly-303F9F.svg?&style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/matheus-cavalari-barbosa/badges)
+[![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@matheus-cavalari-barbosa)
